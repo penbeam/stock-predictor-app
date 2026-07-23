@@ -1,0 +1,12 @@
+SMA_10
+SMA_20
+SMA_50
+Return_1d
+Return_5d
+Return_10d
+Volatility_10
+Volatility_20
+High_Low_ratio
+Close_Open_ratio
+Volume_Change
+Volume_Ratio
